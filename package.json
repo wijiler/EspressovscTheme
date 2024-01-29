@@ -1,0 +1,22 @@
+{
+  "name": "espresso-box",
+  "displayName": "Espresso-box",
+  "publisher": "wijiler",
+  "description": "A warm coffee colored theme with hints of gruvbox",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Espresso box",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Espresso box-color-theme.json"
+      }
+    ]
+  }
+}
