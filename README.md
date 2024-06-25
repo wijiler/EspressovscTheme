@@ -1,5 +1,5 @@
 # Espresso theme  
-A light elegant gruvbox flavored cofee
+A light elegant gruvbox flavored coffee
 
 ![Example](res/jai.png)
 ![Example](res/csharp.png)
